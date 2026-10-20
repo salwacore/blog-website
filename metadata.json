@@ -1,0 +1,6 @@
+{
+  "name": "Folio — Editorial & Publishing Studio",
+  "description": "An alluring, responsive publication platform for writers and thinkers with distraction-free studio, audio narration, typography controls, and community curation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
